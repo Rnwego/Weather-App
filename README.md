@@ -5,7 +5,7 @@ Resources: HTML, CSS, JavaScript, open weather API.
 
 📝 `NOTE:` Below is the App Walkthrough
 ### App Walk-through
-![Weather App](Screen Recording 2021-09-13 at 8.45.29 PM.mov)
+![Weather App](WeatherApp.gif)
 
 - [x] Reveals weather information in user's location using geolocation
 - [x] Add a view for the front side of the web app to display the weather
