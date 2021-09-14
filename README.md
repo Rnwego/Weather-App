@@ -10,4 +10,5 @@ Resources: HTML, CSS, JavaScript, open weather API.
 - [x] Reveals weather information in user's location using geolocation
 - [x] Add a view for the front side of the web app to display the weather
 - [x] Build in logic to show the celsius temperature when the fahrenheit temperature is clicked
+- [x] Reveals weather based on user's input 
 - [x] Push code to GitHub
